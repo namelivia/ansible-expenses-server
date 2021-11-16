@@ -6,7 +6,8 @@ galaxy_info:
   min_ansible_version: 2.5.1
   dependencies:
     - backups
-    - namelivia.postgres
+    - fastapi
+    - postgres
   platforms:
     - name: Ubuntu
       versions:
