@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.expenses-server
+  - src: https://github.com/namelivia/ansible-expenses-server
 ```
 
 ## Required variables (TODO: Update these)
