@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: expenses-server
+  role_name: expenses_server
   author: José Ignacio Amelivia Santiago <jignacio.amelivia@gmail.com>
   description: Ansible role I use to install and configure namelivia/expenses-server
   license: GPLv2
